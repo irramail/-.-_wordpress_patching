@@ -1,0 +1,4 @@
+
+[/wp-includes/post.php]
+$alt_post_name   = $slug;//_truncate_post_slug( $slug, 200 - ( strlen( $suffix ) + 1 ) ) . "-$suffix";
+$post_name_check = false; //$wpdb->get_var( $wpdb->prepare( $check_sql, $alt_post_name, $post_type, $post_ID ) );
