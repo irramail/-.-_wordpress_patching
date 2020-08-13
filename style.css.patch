@@ -4,3 +4,8 @@
   margin: 1rem 1rem 1rem;
   position: relative;
 }
+
+.entry .entry-header {
+  margin: 0rem 1rem 1rem;
+  position: relative;
+}
