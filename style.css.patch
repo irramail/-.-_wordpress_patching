@@ -9,3 +9,12 @@
   margin: 0rem 1rem 1rem;
   position: relative;
 }
+
+.entry .entry-title:before {
+  background: #767676;
+  content: "\020";
+  display: block;
+  height: 2px;
+  margin: 0rem 0;
+  width: 1em;
+}
