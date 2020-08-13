@@ -1,0 +1,6 @@
+[wp-content/themes/twentynineteen/style.css]
+.entry .entry-header {
+  #margin calc(3 * 1rem) 1rem 1rem
+  margin: 1rem 1rem 1rem;
+  position: relative;
+}
